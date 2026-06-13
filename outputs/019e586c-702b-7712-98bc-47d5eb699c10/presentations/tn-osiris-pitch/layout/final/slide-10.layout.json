@@ -1,0 +1,1267 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8a3kar",
+    "id": "8a3kar",
+    "slide": 10,
+    "layoutId": "a14402a9-8166-4a71-a961-08d1d3bef358",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a14402a9-8166-4a71-a961-08d1d3bef358",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#06111E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "2",
+      "bbox": [
+        36,
+        32,
+        1208,
+        656
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "3",
+      "bbox": [
+        72,
+        58,
+        220,
+        22
+      ],
+      "geometry": "rect",
+      "text": "THE CLOSE",
+      "textPreview": "THE CLOSE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Aptos Mono",
+        "color": "#27D3C3",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "THE CLOSE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "THE CLOSE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Aptos Mono",
+            "color": "#27D3C3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE CLOSE",
+              "fontSize": 12,
+              "typeface": "Aptos Mono",
+              "color": "#27D3C3"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "4",
+      "bbox": [
+        72,
+        92,
+        780,
+        144
+      ],
+      "geometry": "rect",
+      "text": "TN-OSIRIS can become the operating system for transparent, measurable public-service delivery.",
+      "textPreview": "TN-OSIRIS can become the operating system for transparent, measurable public-service delivery.",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Aptos Display",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TN-OSIRIS can become the operating"
+          },
+          {
+            "index": 2,
+            "text": "system for transparent, measurable"
+          },
+          {
+            "index": 3,
+            "text": "public-service delivery."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TN-OSIRIS can become the operating system for transparent, measurable public-service delivery.",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Aptos Display",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TN-OSIRIS can become the operating system for transparent, measurable public-service delivery.",
+              "fontSize": 38,
+              "typeface": "Aptos Display",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "5",
+      "bbox": [
+        72,
+        246,
+        760,
+        54
+      ],
+      "geometry": "rect",
+      "text": "The system already demonstrates the product shape: statewide map, district command, department heat, and FlowRadar tracking. The next step is sponsorship, deployment, and deeper integration.",
+      "textPreview": "The system already demonstrates the product shape: statewide map, district command, department heat, and FlowRadar tracking. The next ste...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The system already demonstrates the product shape: statewide map, district command,"
+          },
+          {
+            "index": 2,
+            "text": "department heat, and FlowRadar tracking. The next step is sponsorship, deployment, and deeper"
+          },
+          {
+            "index": 3,
+            "text": "integration."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The system already demonstrates the product shape: statewide map, district command, department heat, and FlowRadar tracking. The next step is sponsorship, deployment, and deeper integration.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The system already demonstrates the product shape: statewide map, district command, department heat, and FlowRadar tracking. The next step is sponsorship, deployment, and deeper integration.",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "6",
+      "bbox": [
+        72,
+        304,
+        332,
+        168
+      ],
+      "geometry": "rect",
+      "fillColor": "#10253D",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "7",
+      "bbox": [
+        88,
+        320,
+        28,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#27D3C3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "8",
+      "bbox": [
+        88,
+        332,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Back a pilot",
+      "textPreview": "Back a pilot",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Back a pilot"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Back a pilot",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Back a pilot",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "9",
+      "bbox": [
+        88,
+        362,
+        300,
+        96
+      ],
+      "geometry": "rect",
+      "text": "Choose a small set of districts and departments to move from narrative demo to live operating workflow.",
+      "textPreview": "Choose a small set of districts and departments to move from narrative demo to live operating workflow.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Choose a small set of districts and departments"
+          },
+          {
+            "index": 2,
+            "text": "to move from narrative demo to live operating"
+          },
+          {
+            "index": 3,
+            "text": "workflow."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Choose a small set of districts and departments to move from narrative demo to live operating workflow.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Choose a small set of districts and departments to move from narrative demo to live operating workflow.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "10",
+      "bbox": [
+        424,
+        304,
+        332,
+        168
+      ],
+      "geometry": "rect",
+      "fillColor": "#10253D",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "11",
+      "bbox": [
+        440,
+        320,
+        28,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0C955",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "12",
+      "bbox": [
+        440,
+        332,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Fund the integration layer",
+      "textPreview": "Fund the integration layer",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fund the integration layer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fund the integration layer",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fund the integration layer",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "13",
+      "bbox": [
+        440,
+        362,
+        300,
+        96
+      ],
+      "geometry": "rect",
+      "text": "The biggest unlock is moving from public-data orchestration to official departmental feeds and field updates.",
+      "textPreview": "The biggest unlock is moving from public-data orchestration to official departmental feeds and field updates.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The biggest unlock is moving from public-data"
+          },
+          {
+            "index": 2,
+            "text": "orchestration to official departmental feeds and"
+          },
+          {
+            "index": 3,
+            "text": "field updates."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The biggest unlock is moving from public-data orchestration to official departmental feeds and field updates.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The biggest unlock is moving from public-data orchestration to official departmental feeds and field updates.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "14",
+      "bbox": [
+        776,
+        304,
+        432,
+        168
+      ],
+      "geometry": "rect",
+      "fillColor": "#10253D",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "15",
+      "bbox": [
+        792,
+        320,
+        28,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6E7C",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "16",
+      "bbox": [
+        792,
+        332,
+        400,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Position it as a command layer",
+      "textPreview": "Position it as a command layer",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Position it as a command layer"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Position it as a command layer",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Position it as a command layer",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "17",
+      "bbox": [
+        792,
+        362,
+        400,
+        96
+      ],
+      "geometry": "rect",
+      "text": "This is strongest when framed as an operating and accountability platform, not just another dashboard procurement.",
+      "textPreview": "This is strongest when framed as an operating and accountability platform, not just another dashboard procurement.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "This is strongest when framed as an operating and"
+          },
+          {
+            "index": 2,
+            "text": "accountability platform, not just another dashboard"
+          },
+          {
+            "index": 3,
+            "text": "procurement."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "This is strongest when framed as an operating and accountability platform, not just another dashboard procurement.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "This is strongest when framed as an operating and accountability platform, not just another dashboard procurement.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "18",
+      "bbox": [
+        72,
+        514,
+        1136,
+        120
+      ],
+      "geometry": "rect",
+      "fillColor": "#0C1C31",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "19",
+      "bbox": [
+        98,
+        540,
+        180,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Deployment ask",
+      "textPreview": "Deployment ask",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos Display",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Deployment ask"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Deployment ask",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos Display",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Deployment ask",
+              "fontSize": 22,
+              "typeface": "Aptos Display",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "20",
+      "bbox": [
+        98,
+        578,
+        520,
+        56
+      ],
+      "geometry": "rect",
+      "text": "1. Approve a district-led pilot scope.\n2. Define the first integration set.\n3. Stand up a PMU cadence around the command views.\n4. Expand into full FlowRadar after governance mode proves value.",
+      "textPreview": "1. Approve a district-led pilot scope. | 2. Define the first integration set. | 3. Stand up a PMU cadence around the command views. | 4. ...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. Approve a district-led pilot scope."
+          },
+          {
+            "index": 2,
+            "text": "2. Define the first integration set."
+          },
+          {
+            "index": 3,
+            "text": "3. Stand up a PMU cadence around the command views."
+          },
+          {
+            "index": 4,
+            "text": "4. Expand into full FlowRadar after governance mode proves value."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. Approve a district-led pilot scope.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. Approve a district-led pilot scope.",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2. Define the first integration set.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Define the first integration set.",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "3. Stand up a PMU cadence around the command views.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Stand up a PMU cadence around the command views.",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "4. Expand into full FlowRadar after governance mode proves value.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. Expand into full FlowRadar after governance mode proves value.",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgn29gr",
+      "id": "21",
+      "bbox": [
+        734,
+        540,
+        140,
+        24
+      ],
+      "geometry": "rect",
+      "text": "End state",
+      "textPreview": "End state",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Aptos Display",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "End state"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "End state",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Aptos Display",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "End state",
+              "fontSize": 22,
+              "typeface": "Aptos Display",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "22",
+      "bbox": [
+        734,
+        578,
+        396,
+        50
+      ],
+      "geometry": "rect",
+      "text": "A Tamil Nadu governance grid where every district, department, and tracked public-service flow can be seen, compared, and acted on from one platform.",
+      "textPreview": "A Tamil Nadu governance grid where every district, department, and tracked public-service flow can be seen, compared, and acted on from o...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A Tamil Nadu governance grid where every district,"
+          },
+          {
+            "index": 2,
+            "text": "department, and tracked public-service flow can be"
+          },
+          {
+            "index": 3,
+            "text": "seen, compared, and acted on from one platform."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A Tamil Nadu governance grid where every district, department, and tracked public-service flow can be seen, compared, and acted on from one platform.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A Tamil Nadu governance grid where every district, department, and tracked public-service flow can be seen, compared, and acted on from one platform.",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "23",
+      "bbox": [
+        1090,
+        682,
+        150,
+        18
+      ],
+      "geometry": "rect",
+      "text": "TN-OSIRIS  /  10",
+      "textPreview": "TN-OSIRIS  /  10",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#93A8C0",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TN-OSIRIS  /  10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TN-OSIRIS  /  10",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#93A8C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TN-OSIRIS  /  10",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

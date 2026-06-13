@@ -1,0 +1,22 @@
+Reference audit
+
+Primary reference:
+- the implemented TN-OSIRIS application in this repository
+
+What to preserve from the product:
+- dark command-center tone
+- map-first control surface logic
+- district command drilldown
+- department heat and governance feed framing
+- FlowRadar as a second operating mode, not a disconnected product
+
+What to improve for the deck:
+- simplify UI complexity into executive-readable proof objects
+- connect product surfaces directly to operating value
+- show rollout logic and data maturity progression
+
+Anti-patterns to avoid:
+- feature grids with no system story
+- generic civic-tech templates
+- slides that look like screenshots pasted on white
+- vague architecture boxes labeled only "AI" or "Data"

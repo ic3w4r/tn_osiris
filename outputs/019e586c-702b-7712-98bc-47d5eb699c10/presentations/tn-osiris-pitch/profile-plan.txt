@@ -1,0 +1,25 @@
+task mode: create
+primary deck-profile: product-platform
+secondary profile gates: strategy-leadership, engineering-platform
+required proof objects:
+- platform map linking data inputs to command surfaces
+- workflow / architecture view for Governance Intelligence + FlowRadar
+- adoption / deployment proof through state, district, zone, and department use cases
+- product-to-value linkage slide for speed, accountability, and resource visibility
+- rollout roadmap with data maturity progression
+source / asset requirements:
+- use repository implementation details from src/app/page.tsx, src/lib/tn-governance-data.ts, src/lib/tn-flowradar-data.ts
+- use PRD framing from Tamil Nadu Governance Intelligence.md and OSIRIS FlowRadar PRD.md
+- avoid unofficial logos or invented identity marks
+brand authenticity constraints:
+- use TN-OSIRIS wordmark as text only
+- use interface-inspired colors and layout cues from the implemented app
+- no fabricated government emblems or department logos
+profile-specific QA gates:
+- every product slide must show system behavior, not just features
+- every workflow arrow and container must have semantic meaning
+- at least one slide must tie platform capability to operating value
+- rollout slide must show a credible path from public data MVP to official integrations
+known missing inputs:
+- no official Tamil Nadu department branding assets supplied
+- no live production customer metrics or procurement history supplied

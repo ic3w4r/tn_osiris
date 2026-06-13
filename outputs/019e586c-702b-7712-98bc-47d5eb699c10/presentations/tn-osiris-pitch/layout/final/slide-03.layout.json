@@ -1,0 +1,2005 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/dyjfey",
+    "id": "dyjfey",
+    "slide": 3,
+    "layoutId": "a14402a9-8166-4a71-a961-08d1d3bef358",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a14402a9-8166-4a71-a961-08d1d3bef358",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "fc13ddbe-92d0-4385-a73b-6a56706dce61",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#06111E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "2",
+      "bbox": [
+        36,
+        32,
+        1208,
+        656
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "3",
+      "bbox": [
+        72,
+        58,
+        220,
+        22
+      ],
+      "geometry": "rect",
+      "text": "THE PLATFORM",
+      "textPreview": "THE PLATFORM",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Aptos Mono",
+        "color": "#27D3C3",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "THE PLATFORM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "THE PLATFORM",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Aptos Mono",
+            "color": "#27D3C3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE PLATFORM",
+              "fontSize": 12,
+              "typeface": "Aptos Mono",
+              "color": "#27D3C3"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "4",
+      "bbox": [
+        72,
+        84,
+        740,
+        60
+      ],
+      "geometry": "rect",
+      "text": "TN-OSIRIS converts scattered government data into one command surface.",
+      "textPreview": "TN-OSIRIS converts scattered government data into one command surface.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Aptos Display",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TN-OSIRIS converts scattered government"
+          },
+          {
+            "index": 2,
+            "text": "data into one command surface."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TN-OSIRIS converts scattered government data into one command surface.",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Aptos Display",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TN-OSIRIS converts scattered government data into one command surface.",
+              "fontSize": 34,
+              "typeface": "Aptos Display",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "5",
+      "bbox": [
+        72,
+        148,
+        760,
+        52
+      ],
+      "geometry": "rect",
+      "text": "The platform ingests public and departmental signals, normalizes them into district and flow objects, then exposes them through two operating modes: Governance Intelligence and FlowRadar.",
+      "textPreview": "The platform ingests public and departmental signals, normalizes them into district and flow objects, then exposes them through two opera...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The platform ingests public and departmental signals, normalizes them into district and flow"
+          },
+          {
+            "index": 2,
+            "text": "objects, then exposes them through two operating modes: Governance Intelligence and FlowRadar."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The platform ingests public and departmental signals, normalizes them into district and flow objects, then exposes them through two operating modes: Governance Intelligence and FlowRadar.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The platform ingests public and departmental signals, normalizes them into district and flow objects, then exposes them through two operating modes: Governance Intelligence and FlowRadar.",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "6",
+      "bbox": [
+        72,
+        238,
+        250,
+        360
+      ],
+      "geometry": "rect",
+      "fillColor": "#142D49",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "7",
+      "bbox": [
+        94,
+        258,
+        110,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#11263F",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "8",
+      "bbox": [
+        106,
+        264,
+        86,
+        16
+      ],
+      "geometry": "rect",
+      "text": "INPUTS",
+      "textPreview": "INPUTS",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#27D3C3",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INPUTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INPUTS",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#27D3C3",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INPUTS",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#27D3C3"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "9",
+      "bbox": [
+        94,
+        302,
+        190,
+        220
+      ],
+      "geometry": "rect",
+      "text": "• grievance channels\n• tender and procurement feeds\n• project and scheme records\n• budget and utilization data\n• public asset status\n• weather and disaster alerts\n• future official API integrations",
+      "textPreview": "• grievance channels | • tender and procurement feeds | • project and scheme records | • budget and utilization data | • public asset sta...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 12,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• grievance channels"
+          },
+          {
+            "index": 2,
+            "text": "• tender and"
+          },
+          {
+            "index": 3,
+            "text": "procurement feeds"
+          },
+          {
+            "index": 4,
+            "text": "• project and scheme"
+          },
+          {
+            "index": 5,
+            "text": "records"
+          },
+          {
+            "index": 6,
+            "text": "• budget and utilization"
+          },
+          {
+            "index": 7,
+            "text": "data"
+          },
+          {
+            "index": 8,
+            "text": "• public asset status"
+          },
+          {
+            "index": 9,
+            "text": "• weather and disaster"
+          },
+          {
+            "index": 10,
+            "text": "alerts"
+          },
+          {
+            "index": 11,
+            "text": "• future official API"
+          },
+          {
+            "index": 12,
+            "text": "integrations"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• grievance channels",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• grievance channels",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• tender and procurement feeds",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• tender and procurement feeds",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• project and scheme records",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• project and scheme records",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• budget and utilization data",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• budget and utilization data",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• public asset status",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• public asset status",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• weather and disaster alerts",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• weather and disaster alerts",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "• future official API integrations",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• future official API integrations",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "10",
+      "bbox": [
+        362,
+        238,
+        272,
+        360
+      ],
+      "geometry": "rect",
+      "fillColor": "#0C1C31",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "11",
+      "bbox": [
+        386,
+        258,
+        150,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#11263F",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "12",
+      "bbox": [
+        398,
+        264,
+        126,
+        16
+      ],
+      "geometry": "rect",
+      "text": "INTELLIGENCE LAYER",
+      "textPreview": "INTELLIGENCE LAYER",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#F0C955",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTELLIGENCE LAYER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTELLIGENCE LAYER",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#F0C955",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTELLIGENCE LAYER",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#F0C955"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgn29gr",
+      "id": "13",
+      "bbox": [
+        386,
+        302,
+        208,
+        210
+      ],
+      "geometry": "rect",
+      "text": "• district and zone normalization\n• risk scoring\n• department linkage\n• event and heat aggregation\n• flow-passport object model\n• cross-layer correlation",
+      "textPreview": "• district and zone normalization | • risk scoring | • department linkage | • event and heat aggregation | • flow-passport object model |...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• district and zone"
+          },
+          {
+            "index": 2,
+            "text": "normalization"
+          },
+          {
+            "index": 3,
+            "text": "• risk scoring"
+          },
+          {
+            "index": 4,
+            "text": "• department linkage"
+          },
+          {
+            "index": 5,
+            "text": "• event and heat"
+          },
+          {
+            "index": 6,
+            "text": "aggregation"
+          },
+          {
+            "index": 7,
+            "text": "• flow-passport object"
+          },
+          {
+            "index": 8,
+            "text": "model"
+          },
+          {
+            "index": 9,
+            "text": "• cross-layer correlation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• district and zone normalization",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• district and zone normalization",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• risk scoring",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• risk scoring",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• department linkage",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• department linkage",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• event and heat aggregation",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• event and heat aggregation",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• flow-passport object model",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• flow-passport object model",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• cross-layer correlation",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• cross-layer correlation",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "14",
+      "bbox": [
+        674,
+        238,
+        250,
+        360
+      ],
+      "geometry": "rect",
+      "fillColor": "#142D49",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "15",
+      "bbox": [
+        698,
+        258,
+        160,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#11263F",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "16",
+      "bbox": [
+        710,
+        264,
+        136,
+        16
+      ],
+      "geometry": "rect",
+      "text": "COMMAND SURFACES",
+      "textPreview": "COMMAND SURFACES",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#FF6E7C",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "COMMAND SURFACES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "COMMAND SURFACES",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#FF6E7C",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "COMMAND SURFACES",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#FF6E7C"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "17",
+      "bbox": [
+        698,
+        302,
+        190,
+        210
+      ],
+      "geometry": "rect",
+      "text": "• statewide map\n• district command view\n• department heat channels\n• governance feed\n• district-zone navigation\n• object-level tracking",
+      "textPreview": "• statewide map | • district command view | • department heat channels | • governance feed | • district-zone navigation | • object-level ...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• statewide map"
+          },
+          {
+            "index": 2,
+            "text": "• district command"
+          },
+          {
+            "index": 3,
+            "text": "view"
+          },
+          {
+            "index": 4,
+            "text": "• department heat"
+          },
+          {
+            "index": 5,
+            "text": "channels"
+          },
+          {
+            "index": 6,
+            "text": "• governance feed"
+          },
+          {
+            "index": 7,
+            "text": "• district-zone"
+          },
+          {
+            "index": 8,
+            "text": "navigation"
+          },
+          {
+            "index": 9,
+            "text": "• object-level tracking"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• statewide map",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• statewide map",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• district command view",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• district command view",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• department heat channels",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• department heat channels",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• governance feed",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• governance feed",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• district-zone navigation",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• district-zone navigation",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• object-level tracking",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• object-level tracking",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sneloj2",
+      "id": "18",
+      "bbox": [
+        964,
+        238,
+        244,
+        360
+      ],
+      "geometry": "rect",
+      "fillColor": "#0C1C31",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbulwval",
+      "id": "19",
+      "bbox": [
+        988,
+        258,
+        146,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#11263F",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "20",
+      "bbox": [
+        1000,
+        264,
+        122,
+        16
+      ],
+      "geometry": "rect",
+      "text": "ACTION OUTPUTS",
+      "textPreview": "ACTION OUTPUTS",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#72A8FF",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ACTION OUTPUTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ACTION OUTPUTS",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#72A8FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ACTION OUTPUTS",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#72A8FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "21",
+      "bbox": [
+        988,
+        302,
+        184,
+        210
+      ],
+      "geometry": "rect",
+      "text": "• earlier escalation\n• budget-to-impact visibility\n• district comparison\n• bottleneck discovery\n• disaster readiness tracking\n• service delivery accountability",
+      "textPreview": "• earlier escalation | • budget-to-impact visibility | • district comparison | • bottleneck discovery | • disaster readiness tracking | •...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• earlier escalation"
+          },
+          {
+            "index": 2,
+            "text": "• budget-to-impact"
+          },
+          {
+            "index": 3,
+            "text": "visibility"
+          },
+          {
+            "index": 4,
+            "text": "• district comparison"
+          },
+          {
+            "index": 5,
+            "text": "• bottleneck discovery"
+          },
+          {
+            "index": 6,
+            "text": "• disaster readiness"
+          },
+          {
+            "index": 7,
+            "text": "tracking"
+          },
+          {
+            "index": 8,
+            "text": "• service delivery"
+          },
+          {
+            "index": 9,
+            "text": "accountability"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• earlier escalation",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• earlier escalation",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• budget-to-impact visibility",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• budget-to-impact visibility",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• district comparison",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• district comparison",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• bottleneck discovery",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• bottleneck discovery",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• disaster readiness tracking",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• disaster readiness tracking",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "• service delivery accountability",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• service delivery accountability",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "22",
+      "bbox": [
+        72,
+        628,
+        320,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Two modes, one backbone",
+      "textPreview": "Two modes, one backbone",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Aptos Display",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Two modes, one backbone"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Two modes, one backbone",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Aptos Display",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Two modes, one backbone",
+              "fontSize": 24,
+              "typeface": "Aptos Display",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "23",
+      "bbox": [
+        362,
+        620,
+        262,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#10253D",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "24",
+      "bbox": [
+        378,
+        636,
+        28,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#27D3C3",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "25",
+      "bbox": [
+        378,
+        648,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Governance Intelligence",
+      "textPreview": "Governance Intelligence",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Governance Intelligence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Governance Intelligence",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Governance Intelligence",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "26",
+      "bbox": [
+        378,
+        678,
+        230,
+        -8
+      ],
+      "geometry": "rect",
+      "text": "Map-first district and department command for public-service monitoring.",
+      "textPreview": "Map-first district and department command for public-service monitoring.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Map-first district and department"
+          },
+          {
+            "index": 2,
+            "text": "command for public-service"
+          },
+          {
+            "index": 3,
+            "text": "monitoring."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Map-first district and department command for public-service monitoring.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Map-first district and department command for public-service monitoring.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "27",
+      "bbox": [
+        650,
+        620,
+        262,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#10253D",
+      "lineColor": "rgba(255, 255, 255, 0.10196)",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "28",
+      "bbox": [
+        666,
+        636,
+        28,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0C955",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "29",
+      "bbox": [
+        666,
+        648,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FlowRadar",
+      "textPreview": "FlowRadar",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Aptos",
+        "color": "#F3F7FB",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FlowRadar"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FlowRadar",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Aptos",
+            "color": "#F3F7FB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FlowRadar",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#F3F7FB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "30",
+      "bbox": [
+        666,
+        678,
+        230,
+        -8
+      ],
+      "geometry": "rect",
+      "text": "Object-level tracking for funds, files, tenders, projects, services, and field operations.",
+      "textPreview": "Object-level tracking for funds, files, tenders, projects, services, and field operations.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#93A8C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Object-level tracking for funds, files,"
+          },
+          {
+            "index": 2,
+            "text": "tenders, projects, services, and field"
+          },
+          {
+            "index": 3,
+            "text": "operations."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Object-level tracking for funds, files, tenders, projects, services, and field operations.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#93A8C0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Object-level tracking for funds, files, tenders, projects, services, and field operations.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "31",
+      "bbox": [
+        1090,
+        682,
+        150,
+        18
+      ],
+      "geometry": "rect",
+      "text": "TN-OSIRIS  /  03",
+      "textPreview": "TN-OSIRIS  /  03",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos Mono",
+        "color": "#93A8C0",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TN-OSIRIS  /  03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TN-OSIRIS  /  03",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos Mono",
+            "color": "#93A8C0",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TN-OSIRIS  /  03",
+              "fontSize": 10,
+              "typeface": "Aptos Mono",
+              "color": "#93A8C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

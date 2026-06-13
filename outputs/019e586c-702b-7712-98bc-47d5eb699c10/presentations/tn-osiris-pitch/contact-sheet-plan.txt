@@ -1,0 +1,17 @@
+Planned 10-slide contact sheet layout families
+
+1. dark cover with metrics rail
+2. split editorial problem diagram
+3. horizontal platform architecture with rails
+4. product surface / interface mock + metric stack
+5. flow lifecycle + module matrix
+6. four-role operating panels
+7. differentiation comparison lattice
+8. roadmap and data maturity staircase
+9. impact matrix with KPI spine
+10. close slide with deployment ask
+
+Checks:
+- no more than 2 grid-heavy slides
+- no 3 consecutive slides sharing the same macro layout
+- every slide has a dominant proof object

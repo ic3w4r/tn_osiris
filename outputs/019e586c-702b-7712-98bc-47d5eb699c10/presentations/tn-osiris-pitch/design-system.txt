@@ -1,0 +1,58 @@
+slide size: 1280x720
+background system:
+- primary: deep ink navy
+- secondary: warm command paper
+- selective accent panels in muted teal, amber, and rose
+
+typography pair:
+- titles: Aptos Display
+- body and labels: Aptos
+- mono / operational labels: Aptos Mono
+
+color palette:
+- ink: #06111e
+- panel: #0e2036
+- paper: #f4efe6
+- paper-soft: #ece4d7
+- teal: #27d3c3
+- teal-soft: #183d46
+- amber: #f0c955
+- rose: #ff6e7c
+- blue: #72a8ff
+- slate text: #8ea2bc
+
+chart grammar:
+- authored with editable shapes
+- direct labels preferred over legends
+- high-contrast figures with compact support rails
+
+diagram grammar:
+- lanes and connectors must express data movement or operating responsibility
+- rounded containers only when they denote modules or ownership groups
+
+container / box grammar:
+- 18-24px inner padding minimum
+- low-contrast borders on dark slides, hairline separators on light slides
+
+footer grammar:
+- minimal source footer in low-contrast text
+- TN-OSIRIS page marker at bottom right
+
+title / kicker grammar:
+- short uppercase kicker in mono
+- strong claim title, never topic-only headings
+
+allowed layout families:
+- cover with metric rail
+- editorial diagram
+- product UI mock with side narrative
+- module matrix
+- role panels
+- phased roadmap
+- value matrix
+
+banned motifs:
+- generic feature-card grids
+- heavy drop shadows
+- decorative gradients without hierarchy value
+- pseudo-government emblems

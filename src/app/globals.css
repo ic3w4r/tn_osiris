@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg-void: #06111e;
+  --bg-primary: #0b1b2d;
+  --bg-panel: rgba(8, 17, 30, 0.82);
+  --bg-panel-strong: rgba(5, 13, 24, 0.94);
+  --text-primary: #eef4fb;
+  --text-secondary: #b0bfd3;
+  --text-muted: #6d8097;
+  --text-heading: #f8fbff;
+  --accent-bright: #24c4b0;
+  --accent-warm: #f6c453;
+  --accent-danger: #ff5f6d;
+  --accent-cool: #7ab8ff;
+  --border-primary: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.14);
+  --hover-accent: rgba(255, 255, 255, 0.06);
+  --font-body: 'Space Grotesk', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+@theme inline {
+  --color-background: var(--bg-void);
+  --color-foreground: var(--text-primary);
+  --font-sans: var(--font-body);
+  --font-mono: var(--font-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background:
+    radial-gradient(circle at top left, rgba(36, 196, 176, 0.1), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(255, 95, 109, 0.12), transparent 26%),
+    var(--bg-void);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.glass-panel {
+  background: linear-gradient(180deg, rgba(13, 27, 44, 0.88), rgba(6, 16, 29, 0.88));
+  backdrop-filter: blur(22px) saturate(1.2);
+  -webkit-backdrop-filter: blur(22px) saturate(1.2);
+  border: 1px solid var(--border-primary);
+  border-radius: 24px;
+  box-shadow:
+    0 24px 60px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.glass-panel-sm {
+  background: rgba(7, 16, 28, 0.74);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-primary);
+  border-radius: 16px;
+}
+
+.hud-text {
+  font-family: var(--font-mono);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.vignette {
+  background: radial-gradient(ellipse at center, transparent 40%, rgba(4, 10, 18, 0.38) 72%, rgba(4, 10, 18, 0.72) 100%);
+}
+
+.styled-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.styled-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.styled-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+}
+
+.styled-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.14) transparent;
+}
+
+.maplibregl-popup-content {
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.maplibregl-popup-tip {
+  display: none !important;
+}
+
+.maplibregl-popup-close-button {
+  color: #b0bfd3 !important;
+  padding: 6px 8px !important;
+}
+
+.layer-toggle {
+  position: relative;
+  width: 32px;
+  height: 18px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+}
+
+.layer-toggle::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.42);
+  transition: all 0.2s ease;
+}
+
+.layer-toggle.active {
+  background: rgba(36, 196, 176, 0.24);
+  border-color: rgba(36, 196, 176, 0.45);
+}
+
+.layer-toggle.active::after {
+  left: 16px;
+  background: var(--accent-bright);
+  box-shadow: 0 0 12px rgba(36, 196, 176, 0.55);
+}
+
+@keyframes ticker-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-ticker {
+  display: inline-block;
+  min-width: max-content;
+  animation: ticker-scroll 28s linear infinite;
+}

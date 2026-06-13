@@ -1,0 +1,20 @@
+{
+  "statewideMetrics": {
+    "districtsMonitored": 38,
+    "pendingGrievances": 2558,
+    "delayedProjects": 21,
+    "tenderRiskExposureCrore": 272,
+    "schemeDeliveryRatePct": 83,
+    "budgetUtilizationPct": 78
+  },
+  "flowRadar": {
+    "moduleCount": 12
+  },
+  "coreThemes": [
+    "Map-first governance intelligence",
+    "District and zone command views",
+    "Department heat and governance feeds",
+    "Flow-passport tracking for government operations",
+    "Public data MVP with upgrade path to official integrations"
+  ]
+}

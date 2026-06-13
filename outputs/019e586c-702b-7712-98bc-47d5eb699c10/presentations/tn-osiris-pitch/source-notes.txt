@@ -1,0 +1,35 @@
+Sources used for the TN-OSIRIS pitch deck
+
+1. /Users/aiswaran/Documents/others/palantir-tn/Tamil Nadu Governance Intelligence.md
+- Product vision, target users, non-goals, module framing
+
+2. /Users/aiswaran/Documents/others/palantir-tn/OSIRIS FlowRadar PRD.md
+- FlowRadar concept, flow-passport framing, module list, operational tracking model
+
+3. /Users/aiswaran/Downloads/palantir-osaris-tn/src/app/page.tsx
+- Top-level product shell, governance mode, FlowRadar mode, district command structure
+
+4. /Users/aiswaran/Downloads/palantir-osaris-tn/src/lib/tn-governance-data.ts
+- Seeded statewide metrics:
+  - 38 districts monitored
+  - 2,558 pending grievances
+  - 21 delayed projects
+  - ₹272 Cr tender risk exposure
+  - 83% scheme delivery rate
+  - 78% budget utilization
+- District examples and departmental ownership
+
+5. /Users/aiswaran/Downloads/palantir-osaris-tn/src/lib/tn-flowradar-data.ts
+- 12 FlowRadar modules
+- district summaries, zone summaries, department channel heat, flow passport model
+
+6. /Users/aiswaran/Downloads/palantir-osaris-tn/src/components/FlowRadarWorkspace.tsx
+- module rail, district command tabs, department-channel view, flow-passport interaction
+
+7. /Users/aiswaran/Downloads/palantir-osaris-tn/src/components/GlobalStatusBar.tsx
+- statewide ops ticker content and command-center framing
+
+Identity asset policy
+- No official state seal, department logo, or emblem was embedded.
+- TN-OSIRIS is represented as text only.
+- All diagrams and UI motifs are original deck shapes derived from the app's implemented visual language.

@@ -1,0 +1,59 @@
+thesis:
+TN-OSIRIS turns fragmented governance data into a Tamil Nadu command layer where districts, departments, projects, budgets, grievances, and operational flows become visible, comparable, and actionable.
+
+audience:
+government innovation stakeholders, platform sponsors, strategic partners, civic-tech investors, systems integrators
+
+one-line arc:
+Tamil Nadu governance is rich in signals but poor in visibility; TN-OSIRIS fuses a map-first command system with FlowRadar tracking so officials can see what is at risk, what is delayed, and what to act on next.
+
+slide list:
+1. Cover
+   claim: TN-OSIRIS is a state operating layer, not a dashboard.
+   proof object: command metrics rail and platform thesis
+   source: governance PRD, app shell
+
+2. Problem
+   claim: governance signals are fragmented across schemes, grievances, tenders, budgets, and disasters.
+   proof object: fragmented-system diagram and consequence stack
+   source: governance PRD problem statement
+
+3. Platform
+   claim: TN-OSIRIS converts scattered government data into one command surface.
+   proof object: data-to-decision platform map
+   source: governance PRD, app architecture
+
+4. Governance Intelligence
+   claim: the governance mode gives every district a live command view.
+   proof object: interface-style district command mock and statewide metrics
+   source: page.tsx, tn-governance-data.ts
+
+5. FlowRadar
+   claim: FlowRadar makes government operations trackable like flights.
+   proof object: flow-passport lifecycle and 12-module matrix
+   source: FlowRadar PRD, tn-flowradar-data.ts
+
+6. Users
+   claim: the same system serves state, district, department, disaster, and audit workflows.
+   proof object: role-based operating panels
+   source: PRDs
+
+7. Differentiation
+   claim: TN-OSIRIS wins because it links geography, accountability, and execution.
+   proof object: five differentiators tied to outcomes
+   source: implemented features
+
+8. Rollout
+   claim: the platform can start with public data and mature into an official command grid.
+   proof object: phased roadmap and integration ladder
+   source: governance PRD caveat, FlowRadar PRD scope
+
+9. Value
+   claim: the system improves speed, visibility, coordination, and resource discipline.
+   proof object: value matrix and KPI outcomes
+   source: inferred from platform capabilities and seeded metrics
+
+10. Close
+    claim: TN-OSIRIS can become the operating system for transparent, measurable public-service delivery.
+    proof object: deployment ask and future-state statement
+    source: product vision
