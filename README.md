@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # ⬡ OSIRIS
@@ -233,3 +234,7 @@ MIT — see [LICENSE](LICENSE) for details.
 [Join our Discord to be a part of this movement!](https://discord.gg/umBykEpb98)
 
 </div>
+=======
+# tn_osiris
+Complete TN_state_mapping
+>>>>>>> origin/main
